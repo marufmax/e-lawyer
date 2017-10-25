@@ -1,0 +1,807 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uniq",
+				"unique"
+			],
+			[
+				"cou",
+				"count_chars"
+			],
+			[
+				"dropd",
+				"dropdown\tdropdown"
+			],
+			[
+				"requ",
+				"require_once"
+			],
+			[
+				"DomDu",
+				"DOMDocument"
+			],
+			[
+				"flig",
+				"FlightController\tFlightController"
+			],
+			[
+				"asse",
+				"asset〔function〕"
+			],
+			[
+				"dropdown",
+				"dropdown:align\talignement"
+			],
+			[
+				"with",
+				"with\tL5 With"
+			],
+			[
+				"Route",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"messag",
+				"messageText"
+			],
+			[
+				"chat",
+				"chat-composer"
+			],
+			[
+				"button",
+				"button\tTag"
+			],
+			[
+				"select2",
+				"select2-multi"
+			],
+			[
+				"Sc",
+				"Schema::drop\tDrop an existing database table"
+			],
+			[
+				"categro",
+				"category_id"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"Cate",
+				"Category"
+			],
+			[
+				"sect",
+				"section"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"posts",
+				"posts.update"
+			],
+			[
+				"Session",
+				"Session::flash\tFlash an Item in the Session"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"section",
+				"section\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/Auth/RegisterController.php",
+			"settings":
+			{
+				"buffer_size": 2320,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/register.blade.php",
+			"settings":
+			{
+				"buffer_size": 5887,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 553,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3282,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2014_10_12_000000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 994,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"auto",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"autosave",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"",
+				"Build: Cancel"
+			]
+		],
+		"width": 672.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/e-lawyer",
+		"/C/laragon/www/e-lawyer/config",
+		"/C/laragon/www/e-lawyer/database",
+		"/C/laragon/www/e-lawyer/database/migrations",
+		"/C/laragon/www/e-lawyer/resources",
+		"/C/laragon/www/e-lawyer/resources/views",
+		"/C/laragon/www/e-lawyer/resources/views/layouts",
+		"/C/laragon/www/e-lawyer/storage",
+		"/C/laragon/www/e-lawyer/storage/app",
+		"/C/laragon/www/e-lawyer/storage/app/public"
+	],
+	"file_history":
+	[
+		"/C/Users/Maruf Alom/AppData/Roaming/Sublime Text 3/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+		"/C/Users/Maruf Alom/AppData/Roaming/Sublime Text 3/Packages/User/SublimePHPIntel.sublime-settings",
+		"/C/laragon/www/e-lawyer/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/e-lawyer/.env",
+		"/C/laragon/www/e-lawyer/config/app.php",
+		"/C/laragon/www/laravelauth/.env",
+		"/C/laragon/www/nodetut/program.js",
+		"/C/laragon/www/laws/package.json",
+		"/C/laragon/www/laws/index.js",
+		"/C/laragon/www/laws/test.php",
+		"/C/laragon/www/laws/bash.sh",
+		"/C/Users/Maruf Alom/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/laragon/www/vuejs/job.php",
+		"/C/laragon/www/vuejs/index.html",
+		"/C/laragon/www/vuejs/app.js",
+		"/C/laragon/www/vuejs/js",
+		"/C/laragon/www/vuejs/hello.php",
+		"/C/laragon/www/car/database/migrations/2017_07_31_225411_create_users_table.php",
+		"/C/laragon/www/vuejs/dom.js",
+		"/C/laragon/www/vuejs/dom.html",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/laragon/www/vuejs/css/style.css",
+		"/C/laragon/www/blog/resources/assets/sass/helpers.scss",
+		"/C/laragon/www/blog/resources/assets/sass/app.scss",
+		"/C/laragon/www/blog/resources/assets/js/app.js",
+		"/C/laragon/www/blog/resources/assets/sass/overrides.scss",
+		"/C/laragon/www/blog/resources/assets/sass/styles.scss",
+		"/C/laragon/www/blog/resources/assets/js/bootstrap.js",
+		"/C/laragon/www/blog/.env",
+		"/C/laragon/www/blog/package.json",
+		"/C/laragon/www/fbapp/app.php",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Packages/rsub/rsub.sublime-settings",
+		"/C/laragon/www/airview/app/Services/v1/FlightService.php",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Packages/Laravel-Cheat-Sheet/snippets/Eloquent.sublime-settings",
+		"/C/laragon/www/airview/config/app.php",
+		"/C/laragon/www/airview/database/factories/FlightModeFactory.php",
+		"/C/laragon/www/airview/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/airview/app/Flight.php",
+		"/C/laragon/www/airview/app/Customer.php",
+		"/C/laragon/www/airview/database/migrations/2017_05_28_084428_create_flight_customer.php",
+		"/C/laragon/www/airview/database/migrations/2017_05_28_075720_create_flights_table.php",
+		"/C/laragon/www/airview/app/Airport.php",
+		"/C/laragon/www/airview/database/migrations/2017_05_28_075700_create_airports_table.php",
+		"/C/laragon/www/airview/database/migrations/2017_05_28_075730_create_customers_table.php",
+		"/C/laragon/www/airview/.env",
+		"/C/laragon/www/blog/database/seeds/PostsTableSeeder.php",
+		"/C/laragon/www/blog/database/migrations/2017_05_16_162856_alter_posts_add_published_at_column.php",
+		"/C/laragon/www/blog/database/migrations/2017_05_13_171731_create_posts_table.php",
+		"/C/laragon/www/blog/database/seeds/UsersTableSeeder.php",
+		"/C/laragon/www/blog/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/blog/resources/views/blog/index.blade.php",
+		"/C/laragon/www/blog/resources/views/blog/show.blade.php",
+		"/C/laragon/www/blog/resources/views/blog/comments.blade.php",
+		"/C/laragon/www/blog/resources/views/layouts/main.blade.php",
+		"/C/laragon/www/blog/resources/views/layouts/sidebar.blade.php",
+		"/C/laragon/www/blog/app/Http/routes.php",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/language/susy.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/language/_susy.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/su/_validation.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/su/_utilities.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/su/settings.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/su/_grid.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/su.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_reset.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_mixins.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_globals.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_susy.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_su.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/style.css",
+		"/C/laragon/www/movies/themes/olympus/assets/js/app.js",
+		"/C/laragon/www/movies/themes/olympus/layouts/default.htm",
+		"/C/laragon/www/movies/themes/olympus/assets/css/style.css",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/language",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_variables.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_sidebar.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/susy/_homepage.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_footer.scss",
+		"/C/laragon/www/movies/themes/olympus/assets/sass/_fonts.scss",
+		"/C/laragon/www/chat/routes/web.php",
+		"/C/laragon/www/chat/resources/assets/js/bootstrap.js",
+		"/C/laragon/www/chat/resources/assets/js/app.js",
+		"/C/laragon/www/chat/webpack.mix.js",
+		"/C/laragon/www/chat/.env",
+		"/C/laragon/www/chat/database/migrations/2017_04_20_162113_create_messages_table.php",
+		"/C/laragon/www/chat/resources/views/chat.blade.php",
+		"/C/laragon/www/chat/vendor/symfony/routing/Route.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/database/migrations/2017_04_16_060701_create_post_tags_table.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/tags/index.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/partials/_nav.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Post.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/Controllers/CategoryController.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/database/migrations/2017_04_15_223745_create_post_tag_table.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Tag.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/database/migrations/2017_04_16_054713_create_tags_table.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/vendor/webmozart/assert/src/Assert.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/routes.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/database/migrations/2017_04_15_183800_create_tags_table.php",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Packages/Jump Along Indent/Default.sublime-keymap",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/Controllers/BlogController.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/Controllers/PagesController.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/categories/index.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/blog/single.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/posts/edit.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/posts/create.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/posts/show.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/posts/index.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/Controllers/PostController.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Category.php",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Catagory.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/database/migrations/2017_04_13_173322_add_catetories_id_to_posts.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/database/migrations/2017_04_13_172557_create_catagories_table.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/auth/login.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/auth/passwords/email.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/config/mail.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/auth/passwords/reset.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/auth/emails/password.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/main.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/resources/views/auth/register.blade.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/vendor/phpunit/php-code-coverage/tests/_files/CoverageMethodOneLineAnnotationTest.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/Controllers/Auth/AuthController.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/Controllers/Auth/PasswordController.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/.env",
+		"/C/Users/m4ruf/AppData/Roaming/Sublime Text 3/Packages/Search in Project/README.md",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/Http/Middleware/Authenticate.php",
+		"/C/Users/m4ruf/Google Drive/Projects/blog/app/User.php"
+	],
+	"find":
+	{
+		"height": 75.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/Auth/RegisterController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2221,
+								2221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2016.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/auth/register.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3007,
+								3007
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "database/migrations/2014_10_12_000000_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "e-lawyer-sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"regis",
+				"resources\\views\\auth\\register.blade.php"
+			],
+			[
+				"app.js",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"flightse",
+				"app\\Services\\v1\\FlightService.php"
+			],
+			[
+				"blog",
+				"app\\Http\\Controllers\\BlogController.php"
+			],
+			[
+				"post",
+				"app\\Post.php"
+			],
+			[
+				"index",
+				"resources\\views\\blog\\index.blade.php"
+			],
+			[
+				"blogco",
+				"app\\Http\\Controllers\\BlogController.php"
+			],
+			[
+				"index.",
+				"resources\\views\\blog\\index.blade.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"chatl",
+				"resources\\assets\\js\\components\\ChatLog.vue"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"boots",
+				"resources\\assets\\js\\bootstrap.js"
+			],
+			[
+				"chat.bl",
+				"resources\\views\\chat.blade.php"
+			],
+			[
+				"chatlog",
+				"resources\\assets\\js\\components\\ChatLog.vue"
+			],
+			[
+				"show.",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"postcon",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"_nav",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"tag.p",
+				"app\\Tag.php"
+			],
+			[
+				"cate",
+				"C:\\Users\\m4ruf\\Google Drive\\Projects\\blog\\app\\Http\\Controllers\\CategoryController.php"
+			],
+			[
+				"single",
+				"resources\\views\\blog\\single.blade.php"
+			],
+			[
+				"create_cate",
+				"C:\\Users\\m4ruf\\Google Drive\\Projects\\blog\\database\\migrations\\2017_04_13_171749_create_catagories_table.php"
+			],
+			[
+				"passwordcon",
+				"app\\Http\\Controllers\\Auth\\PasswordController.php"
+			],
+			[
+				"authco",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"email.bl",
+				"resources\\views\\auth\\passwords\\email.blade.php"
+			],
+			[
+				"password",
+				"resources\\views\\auth\\emails\\password.blade.php"
+			],
+			[
+				"login",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"nav",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"_na",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"main",
+				"resources\\views\\main.blade.php"
+			],
+			[
+				"authi",
+				"app\\Http\\Middleware\\Authenticate.php"
+			],
+			[
+				"_",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"authcon",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"create",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"regi",
+				"resources\\views\\auth\\register.blade.php"
+			],
+			[
+				"login.",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"authcont",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"crea",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"index.bl",
+				"resources\\views\\blog\\index.blade.php"
+			],
+			[
+				"blogcon",
+				"app\\Http\\Controllers\\BlogController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 407.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
