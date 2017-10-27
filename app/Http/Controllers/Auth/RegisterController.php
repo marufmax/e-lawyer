@@ -64,7 +64,7 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
-        if($data['gender'])
+        if ($data['gender'])
         {
             $image = 'public/defaults/avatars/male.png';
         }

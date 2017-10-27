@@ -18,3 +18,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/lawyer/login', 'Auth\LawyerController@showLoginForm')->name('lawyer.login');
+Route::post('/lawyer/login', 'Auth\LawyerController@login')->name('lawyer.login.submit');
+Route::get('/lawyer', 'LawyerController@index')->name('lawyer.dashboard');
