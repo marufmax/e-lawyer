@@ -2,12 +2,14 @@
 
 namespace App\Http\Controllers\Auth;
 
-use App\User;
+use App\Lawyer;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
+use Illuminate\Http\Request;
+use App\Http\Controllers\Auth\LawyerRegistered;
 
-class RegisterController extends Controller
+class LawyerRegistrationController extends Controller
 {
     /*
     |--------------------------------------------------------------------------
@@ -20,14 +22,27 @@ class RegisterController extends Controller
     |
     */
 
-    use RegistersUsers;
+    public function showRegistrationForm()
+    {
+        return view('auth.lawyer-registration');
+    }
+    public function register(Request $request)
+    {
+        $this->validator($request->all())->validate();
 
+        event(new LawyerRegistered($lawyer = $this->create($request->all())));
+
+        $this->guard()->login($lawyer);
+
+        return $this->registered($request, $lawyer)
+                        ?: redirect($this->redirectPath());
+    }
     /**
      * Where to redirect users after registration.
      *
      * @var string
      */
-    protected $redirectTo = '/home';
+    protected $redirectTo = '/lawyer/dashboard';
 
     /**
      * Create a new controller instance.
@@ -78,6 +93,12 @@ class RegisterController extends Controller
             'gender' => $data['gender'],
             'slug' => str_slug($data['name']),
             'password' => bcrypt($data['password']),
+            'firm_name' => $data['firm_name'],
+            'title' => $data['title'],
         ]);
+    }
+    protected function registered(Request $request, $lawyer)
+    {
+        //
     }
 }

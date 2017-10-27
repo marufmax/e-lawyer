@@ -22,3 +22,6 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/lawyer/login', 'Auth\LawyerController@showLoginForm')->name('lawyer.login');
 Route::post('/lawyer/login', 'Auth\LawyerController@login')->name('lawyer.login.submit');
 Route::get('/lawyer', 'LawyerController@index')->name('lawyer.dashboard');
+
+Route::get('/lawyer/register', 'Auth\LawyerRegistrationController@showRegistrationForm')->name('lawyer.register');
+Route::post('/lawyer/register', 'Auth\LawyerRegistrationController@register')->name('lawyer.register.submit');
